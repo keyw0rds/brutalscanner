@@ -1,8 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
 # BrutalScanner
+
 ![](https://i.ibb.co/nR4Bk2p/brutal-scanner.png)
 
-How To Use?
-=
+### How To Use?
+```
 > Install Packages : Python v3 
 > Save File In Directory C:\
 > If Packages Was Installed, RUN using command. 
@@ -22,12 +35,10 @@ file> filename.txt
 or
 file> directory/filename.txt
 
-Don't Forget To Follow My Github🥰
+Don't Forget To Follow My Github🥰```
 
 
-
-More Information
-= 
+### More Information
 <table>
 <tr> <th>Tested</th> 
 <th>Language</th> </tr>
@@ -36,8 +47,36 @@ More Information
 <td>Python</td> 
 </tr> </table>
 
---- 
 Keyw0rds <3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
