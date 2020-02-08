@@ -1,13 +1,13 @@
 # BrutalScanner
 ![](https://i.ibb.co/nR4Bk2p/brutal-scanner.png)
 
-### How To Use?
+How To Use?
 =
 > Install Packages : Python v3 
 > Save File In Directory C:\
 > If Packages Was Installed, RUN using command. 
 $ py brutalscanner.py
-----
+
 Our Command :
 scan : To start scanning file.
 remove : To remove file.
@@ -25,7 +25,8 @@ file> directory/filename.txt
 Don't Forget To Follow My Github🥰
 
 
-### More Information
+
+More Information
 = 
 <table>
 <tr> <th>Tested</th> 
